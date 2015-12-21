@@ -1,0 +1,43 @@
+
+#home a:link{
+	background-color: #9400D3;
+	color: #FFFFFF;
+}
+
+#home a:visited{
+	background-color: #9400D3;
+	color: #FFFFFF;
+}
+
+.album_container {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap:wrap;
+	flex-wrap:wrap;
+}
+
+.album_item {
+	width:250px;
+	//height: 200px;
+	margin:30px;
+	padding: 2px;
+	border:solid 3px;
+}
+
+
+		.photo_link:link {color:black; text-decoration:none;}
+		.photo_link:visited {color:black; text-decoration:none;}
+		.photo_link:hover {color:black; text-decoration:none;}
+		.photo_link:active {color:black; text-decoration:none;}
+		
+		#albumLoading {
+			height: 250px;
+			left: 50%;
+			margin-top: -125px;
+			margin-left: -125px;
+			position: absolute;
+			top: 50%;
+			width: 250px;
+			z-index:-1;
+		}
+			
