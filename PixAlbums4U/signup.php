@@ -173,7 +173,7 @@ SQL;
 	<div id="body-wrapper">
 		<div id="contain-box">
 			<div id="color-box">
-			<p id="join-us">Join PixAlbums4U Today.</p>
+			<p id="join-us">Join PixAlbums4U Today!</p>
 				<div id="registration">
 				<form role="form" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" name="sign-up-form" id="myForm">
 				<div class="form-group">
