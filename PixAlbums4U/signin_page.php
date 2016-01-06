@@ -166,7 +166,7 @@
 				
 				<div id="content">
 					<p id="home-desc" style="padding-top: 30px;">
-					<strong>Share and connect with the PixAlbums4U Community. </br>Discover billions of beautiful photos.</strong>
+					<strong>Share and connect with the PixAlbums4U Community! </br>Discover billions of beautiful photos.</strong>
 					</br>
 					</br>
 					Become obsessed with our social feed of daily inspiration from the photographers you follow. 
